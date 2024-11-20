@@ -54,7 +54,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "react-scripts": "^5.0.1"
   },
   "peerDependencies": {
